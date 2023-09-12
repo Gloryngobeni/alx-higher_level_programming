@@ -1,5 +1,4 @@
 # 1-my_list.txt
-# Brennan D Baraban <375@holbertonschool.com>
 
 =======================
 How to Use 1-my_list.py
@@ -131,18 +130,18 @@ Note that lists of strings are sorted lexographically.
 ::
 
     >>> my_list = MyList()
-    >>> my_list.append("Brennan")
-    >>> my_list.append("Poppy")
+    >>> my_list.append("Glory")
+    >>> my_list.append("Puppy")
     >>> my_list.append("School")
-    >>> my_list.append("Holberton")
+    >>> my_list.append("Alx")
     >>> my_list.append("Betty")
     >>> print(my_list)
-    ['Brennan', 'Poppy', 'School', 'Holberton', 'Betty']
+    ['Glory, 'Puppy', 'School', 'Alx', 'Betty']
 
 ::
 
     >>> my_list.print_sorted()
-    ['Betty', 'Glory, 'Holbn', 'Puppy', 'School']
+    ['Betty', 'Glory, 'Alx', 'Puppy', 'School']
 
 Another friendly reminder that the original list is unaltered :)
 
